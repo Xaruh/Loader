@@ -12,6 +12,14 @@
 	z-index:          1999999999;
 }
 
+#loaderForm {
+	display: inline;
+}
+
+#loaderFormInputs {
+	display: none;
+}
+
 #loaderFormat {
 	margin: 0;
 }
