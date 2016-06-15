@@ -1,0 +1,21 @@
+#loaderPlaceholder {
+	height: 50px;
+}
+
+#loaderBar {
+	background-color: #FFFFFF;
+	border-bottom:    1px solid rgba(0, 0, 0, 0.1);
+	padding:          10px;
+	position:         fixed;
+	top:              50px;
+	width:            100%;
+	z-index:          1999999999;
+}
+
+#loaderFormat {
+	margin: 0;
+}
+
+#loaderList {
+	display: none;
+}
