@@ -1,5 +1,5 @@
 javascript:(function() {
-	const CORE  = "https://rawgit.com/Xaruh/loader/master/scripts/core.js";
+	const CORE  = "https://raw.githubusercontent.com/Xaruh/Loader/master/scripts/core.js";
 	var Request = new XMLHttpRequest();
 	Request.open("GET", CORE);
 	Request.send();
