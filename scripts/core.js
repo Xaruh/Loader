@@ -830,7 +830,7 @@ function embedValidator() {
 	});
 }
 
-const DOMAIN    = "https://rawgit.com/Xaruh/loader/master/";
+const DOMAIN    = "https://raw.githubusercontent.com/Xaruh/Loader/master/";
 const FILE      = DOMAIN + "files/loader.html";
 const LOADER    = DOMAIN + "scripts/loader.js";
 const SHEET     = DOMAIN + "sheets/loader.css";
